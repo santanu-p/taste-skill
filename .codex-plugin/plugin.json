@@ -1,0 +1,45 @@
+{
+  "name": "taste-skill",
+  "version": "2.0.0-beta",
+  "description": "Premium frontend taste system with adjustable variance, motion, and density controls for Codex.",
+  "author": {
+    "name": "Lex Lin",
+    "email": "hello@learn2vibecode.dev",
+    "url": "https://tasteskill.dev"
+  },
+  "homepage": "https://tasteskill.dev",
+  "repository": "https://github.com/santanu-p/taste-skill",
+  "license": "Proprietary",
+  "keywords": [
+    "frontend",
+    "ui",
+    "design",
+    "design-system",
+    "gsap",
+    "motion",
+    "animation",
+    "layout",
+    "codex-plugin"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Taste Skill",
+    "shortDescription": "Premium frontend taste system with controllable variance, motion, and density.",
+    "longDescription": "Use Taste Skill to build modern, premium-feeling web UIs with intentional typography, calibrated spacing, and cinematic motion. The bundle includes variants for redesigns, soft UI, minimalism, brutalism, GPT-tuned outputs, and stitch-compatible exports with adjustable variance, motion intensity, and visual density controls.",
+    "developerName": "Taste Skill",
+    "category": "Coding",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://tasteskill.dev",
+    "privacyPolicyURL": "https://github.com/santanu-p/taste-skill",
+    "termsOfServiceURL": "https://github.com/santanu-p/taste-skill",
+    "defaultPrompt": [
+      "Use Taste Skill to design a premium landing page with bold typography and tasteful motion.",
+      "Switch to the minimalist-skill variant for a clean editorial layout with crisp borders.",
+      "Dial DESIGN_VARIANCE, MOTION_INTENSITY, and VISUAL_DENSITY to suit the product before coding."
+    ],
+    "brandColor": "#111111"
+  }
+}

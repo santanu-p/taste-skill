@@ -35,6 +35,14 @@ Works via CLI for all major AI coding agents (Cursor, Antigravity, Claude Code, 
 npx skills add https://github.com/Leonxlnx/taste-skill
 ```
 
+## Codex plugin
+
+Use the bundled Codex plugin to make the skills show up in Codex's Local Plugins list:
+
+1. Download or clone this repository.
+2. Copy the folder into your Codex plugins directory (for example: `mkdir -p ~/.codex/plugins && cp -R /path/to/taste-skill ~/.codex/plugins/taste-skill`).
+3. Open Codex → Plugins → Local Plugins, select **Taste Skill**, and click Install.
+
 ## Skills
 
 | Skill | Description |
